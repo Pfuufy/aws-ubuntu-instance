@@ -26,3 +26,8 @@ This is an Ubuntu 18 machine running an Apache web server. The server is serving
 * AWS Documentation
 * GitHub Forums
 * Mr. Graham Dumpleton
+
+## Notes for the Grader:
+I will submit the SSH key for your account with my submission. You can log into this machine with the command
+`ssh -i /path/to/ssh/key grader@http://ec2-3-16-89-76.us-east-2.compute.amazonaws.com -p 2200`
+As I mentioned earlier, SSH has been configured to run on port 2200 rather than 22 - hence the -p 2200 in the command.
