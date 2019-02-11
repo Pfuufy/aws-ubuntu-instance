@@ -1,8 +1,5 @@
 # aws-ubuntu-instance
 
-
-A README file is included in the GitHub repo containing the following information: IP address, URL, summary of software installed, summary of configurations made, and a list of third-party resources used to complete this project.
-
 ## IP Address: 3.16.89.76
 
 ## URL: http://ec2-3-16-89-76.us-east-2.compute.amazonaws.com
